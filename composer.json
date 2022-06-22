@@ -1,6 +1,6 @@
 {
   "name": "rugalib/ruga-asset-datatables-searchhighlight",
-  "description": "Search result highlighting for datatables",
+  "description": "Search term highlighter for DataTables",
   "homepage": "https://datatables.net/blog/2014-10-22",
   "type": "library",
   "require": {
@@ -15,6 +15,10 @@
     }
   ],
   "authors": [
+    {
+      "name": "SpryMedia Ltd (www.sprymedia.co.uk)",
+      "homepage": "www.sprymedia.co.uk/contact"
+    },
     {
       "name": "Roland Rusch",
       "email": "roland.rusch@easy-smart.ch"
