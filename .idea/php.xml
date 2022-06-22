@@ -43,6 +43,9 @@
       <path value="$PROJECT_DIR$/vendor/webmozart/assert" />
       <path value="$PROJECT_DIR$/vendor/phpspec/prophecy" />
       <path value="$PROJECT_DIR$/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/vendor/rugalib/asset-jquery" />
+      <path value="$PROJECT_DIR$/vendor/rugalib/ruga-asset-jquery-highlight" />
+      <path value="$PROJECT_DIR$/vendor/rugalib/asset-jquery-datatables" />
     </include_path>
   </component>
   <component name="PhpProjectSharedConfiguration" php_language_level="7.4" />
